@@ -30,9 +30,3 @@ For every floor the user can set the number of different type of linen to delive
 -[java Map class](https://stackoverflow.com/questions/2817695/how-does-java-order-items-in-a-hashmap-or-a-hashtable)
 
 -[set Colors](https://stackoverflow.com/questions/23517879/set-background-color-programmatically/23518150)
-
-## To Read
-
-- [custom TimePicker Dialog. Adjusting the minutes in intervals](https://github.com/ziaagikian/Custom-Time-Picker-Dialog)
-- [Material wheel view](https://android-arsenal.com/details/1/5184)
-- [WheelView](https://github.com/LukeDeighton/WheelView)
