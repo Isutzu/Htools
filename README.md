@@ -27,6 +27,6 @@ For every floor the user can set the number of different type of linen to delive
 
 - [RecyclerView listener](https://antonioleiva.com/recyclerview-listener/)
 
--[java Map class](https://stackoverflow.com/questions/2817695/how-does-java-order-items-in-a-hashmap-or-a-hashtable)
+- [java Map class](https://stackoverflow.com/questions/2817695/how-does-java-order-items-in-a-hashmap-or-a-hashtable)
 
--[set Colors](https://stackoverflow.com/questions/23517879/set-background-color-programmatically/23518150)
+- [set Colors](https://stackoverflow.com/questions/23517879/set-background-color-programmatically/23518150)
