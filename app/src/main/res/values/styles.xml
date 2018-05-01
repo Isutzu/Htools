@@ -1,0 +1,45 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+
+    <style name="seekbar_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:max">20</item>
+        <item name="android:layout_marginTop">25dp</item>
+        <item name="android:layout_weight">4</item>
+        <item name="android:thumb">@drawable/custom_seekbar_thumb</item>
+        <item name="android:progressDrawable">@drawable/custom_progress_seekbar</item>
+        <item name="android:layout_gravity">center_vertical</item>
+    </style>
+
+    <style name="textview_floor_number">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:paddingTop"> 20sp</item>
+        <item name="android:paddingBottom">20sp</item>
+        <item name="android:text">@string/tv_default_number</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="tv_sheets_towel_number">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingBottom">6dp</item>
+        <item name="android:layout_marginTop">6dp</item>
+        <item name="android:layout_marginBottom">6dp</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+
+</resources>

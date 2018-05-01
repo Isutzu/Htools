@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="seekbar_flat" type="id"> seekbar_flat </item>
+    <item name="tv_flat" type="id"> tv_flat </item>
+
+    <item name="seekbar_fitted_flat" type="id"> seekbar_fitted_flat </item>
+    <item name="tv_fitted_flat" type="id"> tv_fitted_flat </item>
+
+    <item name="seekbar_king" type="id"> seekbar_king </item>
+    <item name="tv_king" type="id"> tv_king </item>
+
+    <item name="seekbar_fitted_king" type="id"> seekbar_fitted_king </item>
+    <item name="tv_fitted_king" type="id"> tv_fitted_king </item>
+
+    <item name="seekbar_king_pillow" type="id"> seekbar_king_pillow </item>
+    <item name="tv_king_pillow" type="id"> tv_king_pillow </item>
+
+    <item name="seekbar_standard_pillow" type="id"> seekbar_standard_pillow </item>
+    <item name="tv_standard_pillow" type="id"> tv_standard_pillow </item>
+
+    <item name="seekbar_bath_towel" type="id"> seekbar_bath_towel </item>
+    <item name="tv_bath_towel" type="id"> tv_bath_towel </item>
+
+    <item name="seekbar_bath_matt" type="id"> seekbar_bath_matt </item>
+    <item name="tv_bath_matt" type="id"> tv_bath_matt </item>
+
+    <item name="seekbar_hand_towel" type="id"> seekbar_hand_towel </item>
+    <item name="tv_hand_towel" type="id"> tv_hand_towel </item>
+
+</resources>

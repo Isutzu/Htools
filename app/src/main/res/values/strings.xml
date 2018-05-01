@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">HTools</string>
+    <string name="tv_default_number">0</string>
+    <string name="list">listado</string>
+    <string name="nuevo">Start new</string>
+
+
+</resources>
